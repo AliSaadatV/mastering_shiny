@@ -1,0 +1,27 @@
+{
+    "id": "37619F4A",
+    "path": "~/Documents/R_projects/mastering_shiny/5_workflow/app.R",
+    "project_path": "5_workflow/app.R",
+    "type": "r_source",
+    "hash": "1675238692",
+    "contents": "",
+    "dirty": false,
+    "created": 1678644662001.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,9",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1678647016,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678647016687,
+    "read_only": false,
+    "read_only_alternatives": []
+}
