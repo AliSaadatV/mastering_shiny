@@ -1,27 +1,27 @@
 {
-    "id": "87FFFA53",
-    "path": "~/Documents/R_projects/mastering_shiny/9_upload_and_download/app.R",
-    "project_path": "9_upload_and_download/app.R",
+    "id": "7ADA1088",
+    "path": "~/Documents/R_projects/mastering_shiny/10_dynamic_ui/app.R",
+    "project_path": "10_dynamic_ui/app.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1679096767849.0,
+    "created": 1679252542750.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "68,30",
-        "scrollLine": "46"
+        "cursorPosition": "14,0",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679096809,
+    "lastKnownWriteTime": 1679252581,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679096809858,
+    "last_content_update": 1679252581616,
     "read_only": false,
     "read_only_alternatives": []
 }
